@@ -19,7 +19,8 @@ Search Depedency <br>
 
 
 #### Preview
-Running Project : <br> ```java -jar iegcode-apache-meven-app/target/iegcode-apache-app-1.0-SNAPSHOT-jar-with-depedencies-jar```
-
-
+Running Project : 
+```bash 
+java -jar iegcode-apache-meven-app/target/iegcode-apache-app-1.0-SNAPSHOT-jar-with-depedencies-jar
+```
 <img src="demo.png">
