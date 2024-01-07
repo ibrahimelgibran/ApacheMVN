@@ -11,9 +11,15 @@ Create Project <br>
 <img src="installation.png">
 
 #### By Step Three
-Add Depedency <br>
-- mvn archetype:generate
-- maven-archetype-quickstart
+Search Depedency <br>
+- [`https://search.maven.org/`]()
+- [`https://mvnrepository.com/`]()
+
+<img src="depedency.png">
+
 
 #### Preview
+Running Project : <br> ```java -jar iegcode-apache-meven-app/target/iegcode-apache-app-1.0-SNAPSHOT-jar-with-depedencies-jar```
+
+
 <img src="demo.png">
